@@ -1,0 +1,19 @@
+{
+  "name": "homu-tester",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivakumar-kailasam/homu-tester.git"
+  },
+  "author": "Sivakumar Kailasam <sivakumar.ur.friend@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sivakumar-kailasam/homu-tester/issues"
+  },
+  "homepage": "https://github.com/sivakumar-kailasam/homu-tester#readme",
+  "description": ""
+}

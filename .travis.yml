@@ -1,9 +1,10 @@
 language: node_js
 node_js:
-- '0.11'
 - '0.10'
 notifications:
     webhooks: https://0df33b02.ngrok.io/travis
 branches:
     only:
         - auto
+script:
+  - npm test
